@@ -8,4 +8,4 @@
 
 4. Switch from main branch on "developer"
 
-5. Rune command "git pull"
+5. Run command "git pull"
